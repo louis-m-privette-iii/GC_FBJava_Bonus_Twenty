@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;co.grandcircus.fbjava_july2018.lab_07.Lab07Validator&apos; to &apos;Lab_07_Validator&apos;&#x0A;- Original project: &apos;Lab_07&apos;&#x0A;- Original element: &apos;co.grandcircus.fbjava_july2018.lab_07.Lab07Validator&apos;&#x0A;- Renamed element: &apos;co.grandcircus.fbjava_july2018.lab_07.Lab_07_Validator&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Lab07Validator&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;co.grandcircus.fbjava_july2018.lab_07{Lab07Validator.java[Lab07Validator" matchStrategy="1" name="Lab_07_Validator" qualified="false" references="true" similarDeclarations="false" stamp="1532393042194" textual="false" version="1.0"/>
+</session>

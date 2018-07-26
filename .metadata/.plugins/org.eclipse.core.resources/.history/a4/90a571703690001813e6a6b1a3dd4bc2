@@ -1,0 +1,17 @@
+package co.grandcircus.fbjava_july2018.bonus_20;
+import java.util.*;
+
+public class MarketShoppingList {
+
+	public static void main(String[] args) {
+		String[] marketItems = {"apple", "banana", "cauliflower", "eggplant", "oatmeal", "vinigar", "kumquat", "headcheese"};
+		
+		// casts the data
+		List<String> list = new ArrayList<String>();
+	}
+
+}
+
+
+// sources used to learn collections:
+// https://www.youtube.com/watch?v=jU5ACV5MucM

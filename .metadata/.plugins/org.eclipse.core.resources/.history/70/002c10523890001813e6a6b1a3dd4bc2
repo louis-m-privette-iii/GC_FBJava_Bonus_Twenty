@@ -1,0 +1,38 @@
+package co.grandcircus.fbjava_july2018.bonus_20;
+import java.util.*;
+
+public class MarketShoppingList {
+
+	public static void main(String[] args) {
+		String[] provisions = {"apple", "banana", "cauliflower", "eggplant", "oatmeal", "vinigar", "kumquat", "headcheese"};
+		
+		// casts the data
+		List<String> list1 = new ArrayList<String>();
+		
+		// add array items to list
+		for (String x: provisions)
+			list1.add(x);
+		
+		String[] noPlantProvisions = {"vinigar", "headcheese"};
+		List<String> list2 = new ArrayList<String>();
+		
+		// add array items to list
+		for (String y: noPlantProvisions)
+			list2.add(y);
+		
+		// print out list 1
+		for (int i = 0;i < list1.size(); i++) {
+			System.out.printf("%s ", list1.get(i));
+		}
+		
+		//method
+		editlist(list1,list2);
+		
+	}
+
+}
+
+
+// sources used to learn collections:
+// https://www.youtube.com/watch?v=jU5ACV5MucM
+// https://www.youtube.com/watch?v=uoLgfgcB3XQ

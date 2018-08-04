@@ -1,7 +1,7 @@
-package co.grandcircus.fbjava_july2018.bonus_20;
+package co.grandcircus.bonus_20;
 import java.util.*;
 
-public class MarketShoppingList {
+public class MarketShoppingListApp {
 
 	public static void main(String[] args) {
 		String[] provisions = {"apple", "banana", "cauliflower", "eggplant", "headcheese", "kumquat", "oatmeal", "vinigar"};
